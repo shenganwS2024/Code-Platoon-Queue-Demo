@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+div{
+  height: 40px;
+}
+#display {
+  height: 250px;
+  width: 80%;
+  margin: auto;
+  background-color: powderblue;
+  
+}
+
+#openButton{
+  height: 50px;
+  width: 50%;
+  margin: auto;
+  /* background-color: rgb(232, 227, 226) */
+}
+
+.studentSubmits{
+  margin: auto;
+}
